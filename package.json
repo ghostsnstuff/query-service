@@ -1,0 +1,25 @@
+{
+  "name": "query-service",
+  "version": "0.0.1",
+  "description": "Project Querying Service",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test/*",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ghostsnstuff/query-service.git"
+  },
+  "keywords": [
+    "project",
+    "querying",
+    "service"
+  ],
+  "author": "Jared Halpert <jaredhalpert90@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghostsnstuff/query-service/issues"
+  },
+  "homepage": "https://github.com/ghostsnstuff/query-service"
+}
